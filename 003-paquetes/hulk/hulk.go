@@ -3,7 +3,7 @@ package hulk
 
 import "fmt"
 
-// Hulk saluda
+// Saludo función para saludar
 func Saludo() {
 	fmt.Println("Hola desde Hulk.")
 }
